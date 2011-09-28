@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2011-09-18T12:51:51.963823Z"
+   url="https://svn.sinaapp.com/renrenbook/1/SpeedPHP/Extensions"
+   last-author=""
+   kind="dir"
+   uuid="d38ad656-9e8f-4001-bb2a-cba8ef8b5a44"
+   repos="https://svn.sinaapp.com/renrenbook"
+   revision="324"/>
+<entry
+   committed-rev="1"
+   name="Services_JSON.php"
+   text-time="2011-09-18T12:54:14.841879Z"
+   committed-date="2011-09-18T12:51:51.963823Z"
+   checksum="e38fa0b35b6c3ed0cc283a7182672931"
+   last-author=""
+   kind="file"
+   prop-time="2011-09-18T12:54:14.708872Z"/>
+<entry
+   committed-rev="1"
+   name="spAcl.php"
+   text-time="2011-09-18T12:54:14.858880Z"
+   committed-date="2011-09-18T12:51:51.963823Z"
+   checksum="916431a2919b36fa35ba7dd8c8d381c3"
+   last-author=""
+   kind="file"
+   prop-time="2011-09-18T12:54:14.714872Z"/>
+<entry
+   committed-rev="1"
+   name="spUrlRewrite.php"
+   text-time="2011-09-18T12:54:14.870881Z"
+   committed-date="2011-09-18T12:51:51.963823Z"
+   checksum="36efac0e7d209c6672fe0962d4c73456"
+   last-author=""
+   kind="file"
+   prop-time="2011-09-18T12:54:14.828879Z"/>
+<entry
+   committed-rev="1"
+   name="spAccessCache.php"
+   text-time="2011-09-18T12:54:14.884882Z"
+   committed-date="2011-09-18T12:51:51.963823Z"
+   checksum="12090a16e2c5cbe15fc89883127db485"
+   last-author=""
+   kind="file"
+   prop-time="2011-09-18T12:54:14.833879Z"/>
+</wc-entries>

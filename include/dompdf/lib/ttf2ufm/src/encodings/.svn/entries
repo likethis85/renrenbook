@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="33"
+   name=""
+   committed-date="2011-09-18T15:20:24.501871Z"
+   url="https://svn.sinaapp.com/renrenbook/1/include/dompdf/lib/ttf2ufm/src/encodings"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   uuid="d38ad656-9e8f-4001-bb2a-cba8ef8b5a44"
+   repos="https://svn.sinaapp.com/renrenbook"
+   revision="324"/>
+<entry
+   committed-rev="33"
+   name="README.html"
+   text-time="2011-09-18T15:32:01.936366Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="81bca04962d31b4d35f9c0c1af2ab359"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:32:01.278329Z"/>
+<entry
+   name="bulgarian"
+   kind="dir"/>
+<entry
+   name="russian"
+   kind="dir"/>
+<entry
+   name="adobestd"
+   kind="dir"/>
+<entry
+   name="latin1"
+   kind="dir"/>
+<entry
+   name="latin2"
+   kind="dir"/>
+<entry
+   name="cyrillic"
+   kind="dir"/>
+<entry
+   name="latin4"
+   kind="dir"/>
+<entry
+   name="latin5"
+   kind="dir"/>
+<entry
+   committed-rev="33"
+   name="README"
+   text-time="2011-09-18T15:32:01.948367Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="d0ccc5d569cc81a1198839cbf5cd56f3"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:32:01.926366Z"/>
+</wc-entries>

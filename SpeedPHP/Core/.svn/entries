@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2011-09-18T12:51:51.963823Z"
+   url="https://svn.sinaapp.com/renrenbook/1/SpeedPHP/Core"
+   last-author=""
+   kind="dir"
+   uuid="d38ad656-9e8f-4001-bb2a-cba8ef8b5a44"
+   repos="https://svn.sinaapp.com/renrenbook"
+   revision="324"/>
+<entry
+   committed-rev="1"
+   name="spView.php"
+   text-time="2011-09-18T12:54:15.294905Z"
+   committed-date="2011-09-18T12:51:51.963823Z"
+   checksum="26df1818491e14257489394ae806feeb"
+   last-author=""
+   kind="file"
+   prop-time="2011-09-18T12:54:15.057892Z"/>
+<entry
+   committed-rev="1"
+   name="spModel.php"
+   text-time="2011-09-18T12:54:15.307906Z"
+   committed-date="2011-09-18T12:51:51.963823Z"
+   checksum="f861f8bd1c21724bfc74464438459d70"
+   last-author=""
+   kind="file"
+   prop-time="2011-09-18T12:54:15.214901Z"/>
+<entry
+   committed-rev="1"
+   name="spController.php"
+   text-time="2011-09-18T12:54:15.330907Z"
+   committed-date="2011-09-18T12:51:51.963823Z"
+   checksum="794b2425e8be718a4594c93e27c0c614"
+   last-author=""
+   kind="file"
+   prop-time="2011-09-18T12:54:15.286905Z"/>
+</wc-entries>

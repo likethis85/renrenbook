@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="33"
+   name=""
+   committed-date="2011-09-18T15:20:24.501871Z"
+   url="https://svn.sinaapp.com/renrenbook/1/include/dompdf/www/cssSandpaper/js"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   uuid="d38ad656-9e8f-4001-bb2a-cba8ef8b5a44"
+   repos="https://svn.sinaapp.com/renrenbook"
+   revision="324"/>
+<entry
+   committed-rev="33"
+   name="EventHelpers.js"
+   text-time="2011-09-18T15:31:49.165636Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="d9a27761952a6b6f0c1a0f85eb645de2"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:48.458595Z"/>
+<entry
+   committed-rev="33"
+   name="cssSandpaper.js"
+   text-time="2011-09-18T15:31:49.183637Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="d04ebd732ea65416403cc6ceace24515"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:48.967624Z"/>
+<entry
+   committed-rev="33"
+   name="cssQuery-p.js"
+   text-time="2011-09-18T15:31:49.221639Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="c260e94c53eca2a4c27de8e948664d2b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:49.045629Z"/>
+<entry
+   name="jcoglan.com"
+   kind="dir"/>
+</wc-entries>

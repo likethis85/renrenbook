@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="282"
+   name=""
+   committed-date="2011-09-20T15:56:48.127108Z"
+   url="https://svn.sinaapp.com/renrenbook/1"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   uuid="d38ad656-9e8f-4001-bb2a-cba8ef8b5a44"
+   repos="https://svn.sinaapp.com/renrenbook"
+   revision="324"/>
+<entry
+   name="tpl"
+   kind="dir"/>
+<entry
+   name="_ignore"
+   kind="dir"/>
+<entry
+   name="controller"
+   kind="dir"/>
+<entry
+   name="include"
+   kind="dir"/>
+<entry
+   name="models"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="config.yaml"
+   text-time="2011-09-18T12:54:15.537919Z"
+   committed-date="2011-09-18T12:51:51.963823Z"
+   checksum="c01263bb44388833f1efeef88d01daac"
+   last-author=""
+   kind="file"
+   prop-time="2011-09-18T12:54:14.479859Z"/>
+<entry
+   name="SpeedPHP"
+   kind="dir"/>
+<entry
+   committed-rev="230"
+   name="index.php"
+   text-time="2011-09-20T02:41:59.071287Z"
+   committed-date="2011-09-20T02:42:37.485420Z"
+   checksum="4ad7592ef8e5f7378ec00dd2277d5675"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T12:54:15.530919Z"/>
+</wc-entries>

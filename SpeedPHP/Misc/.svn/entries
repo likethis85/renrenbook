@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2011-09-18T12:51:51.963823Z"
+   url="https://svn.sinaapp.com/renrenbook/1/SpeedPHP/Misc"
+   last-author=""
+   kind="dir"
+   uuid="d38ad656-9e8f-4001-bb2a-cba8ef8b5a44"
+   repos="https://svn.sinaapp.com/renrenbook"
+   revision="324"/>
+<entry
+   committed-rev="1"
+   name="notice.php"
+   text-time="2011-09-18T12:54:15.369910Z"
+   committed-date="2011-09-18T12:51:51.963823Z"
+   checksum="f8f06139f8ebf97be46cb31e571a59c8"
+   last-author=""
+   kind="file"
+   prop-time="2011-09-18T12:54:15.362909Z"/>
+</wc-entries>

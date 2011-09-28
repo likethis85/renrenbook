@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="33"
+   name=""
+   committed-date="2011-09-18T15:20:24.501871Z"
+   url="https://svn.sinaapp.com/renrenbook/1/include/dompdf/lib"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   uuid="d38ad656-9e8f-4001-bb2a-cba8ef8b5a44"
+   repos="https://svn.sinaapp.com/renrenbook"
+   revision="324"/>
+<entry
+   committed-rev="33"
+   name="class.pdf.php"
+   text-time="2011-09-18T15:32:14.981112Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="4af9ee3d891858c67a111893607a136d"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:50.732725Z"/>
+<entry
+   name="ttf2ufm"
+   kind="dir"/>
+<entry
+   name="fonts"
+   kind="dir"/>
+<entry
+   name="res"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2011-09-18T12:51:51.963823Z"
+   url="https://svn.sinaapp.com/renrenbook/1/SpeedPHP/Drivers"
+   last-author=""
+   kind="dir"
+   uuid="d38ad656-9e8f-4001-bb2a-cba8ef8b5a44"
+   repos="https://svn.sinaapp.com/renrenbook"
+   revision="324"/>
+<entry
+   committed-rev="1"
+   name="speedy.php"
+   text-time="2011-09-18T12:54:15.420913Z"
+   committed-date="2011-09-18T12:51:51.963823Z"
+   checksum="bfd891679433a01d09bffa000c242f42"
+   last-author=""
+   kind="file"
+   prop-time="2011-09-18T12:54:15.406912Z"/>
+<entry
+   committed-rev="1"
+   name="sae.php"
+   text-time="2011-09-18T12:54:15.430913Z"
+   committed-date="2011-09-18T12:51:51.963823Z"
+   checksum="de82be4c55b3bcf42200f0a8493b4a60"
+   last-author=""
+   kind="file"
+   prop-time="2011-09-18T12:54:15.413912Z"/>
+</wc-entries>

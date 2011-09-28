@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="249"
+   name=""
+   committed-date="2011-09-20T13:41:57.904260Z"
+   url="https://svn.sinaapp.com/renrenbook/1/include/fancybox"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/renrenbook"
+   revision="324"/>
+<entry
+   committed-rev="249"
+   name="fancy_shadow_se.png"
+   text-time="2011-09-20T13:28:30.959985Z"
+   committed-date="2011-09-20T13:41:57.904260Z"
+   checksum="a8afd5a008884380ee712d177105268f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-20T13:39:41.589343Z"/>
+<entry
+   committed-rev="249"
+   name="fancy_title_over.png"
+   text-time="2011-09-20T13:28:30.969986Z"
+   committed-date="2011-09-20T13:41:57.904260Z"
+   checksum="b886fd165d4b7ac77d41fb52d87ffc60"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-20T13:39:41.632346Z"/>
+<entry
+   committed-rev="249"
+   name="jquery.fancybox-1.3.4.css"
+   text-time="2011-09-20T13:28:30.975986Z"
+   committed-date="2011-09-20T13:41:57.904260Z"
+   checksum="4638ce99ef00cf62bfb22d230f9924b8"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="249"
+   name="jquery.fancybox-1.3.4.pack.js"
+   text-time="2011-09-20T13:28:30.984987Z"
+   committed-date="2011-09-20T13:41:57.904260Z"
+   checksum="8bc36a08c46719377528d962966ce37c"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="249"
+   name="fancy_loading.png"
+   text-time="2011-09-20T13:28:30.926983Z"
+   committed-date="2011-09-20T13:41:57.904260Z"
+   checksum="b1d54c240cf06e7f41e372d56919b738"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-20T13:39:41.523339Z"/>
+<entry
+   committed-rev="249"
+   name="fancy_title_right.png"
+   text-time="2011-09-20T13:28:30.971986Z"
+   committed-date="2011-09-20T13:41:57.904260Z"
+   checksum="6cbe0c935511e7f9a2555ccb6a7324c4"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-20T13:39:41.724351Z"/>
+<entry
+   committed-rev="249"
+   name="jquery.mousewheel-3.0.4.pack.js"
+   text-time="2011-09-20T13:28:30.991987Z"
+   committed-date="2011-09-20T13:41:57.904260Z"
+   checksum="3b0a821567b463e70bcc1e90ed2bc9b6"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="249"
+   name="fancy_nav_right.png"
+   text-time="2011-09-20T13:28:30.948985Z"
+   committed-date="2011-09-20T13:41:57.904260Z"
+   checksum="216e4bde5bddeeaa60dc3d692890a68e"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-20T13:39:41.503338Z"/>
+<entry
+   committed-rev="249"
+   name="fancy_title_main.png"
+   text-time="2011-09-20T13:28:30.967986Z"
+   committed-date="2011-09-20T13:41:57.904260Z"
+   checksum="38dad6c1ed4bdc81c0bec721b2deb8c2"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-20T13:39:41.621345Z"/>
+<entry
+   committed-rev="249"
+   name="blank.gif"
+   text-time="2011-09-20T13:28:30.910982Z"
+   committed-date="2011-09-20T13:41:57.904260Z"
+   checksum="325472601571f31e1bf00674c368d335"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-20T13:39:41.713350Z"/>
+<entry
+   committed-rev="249"
+   name="fancy_shadow_nw.png"
+   text-time="2011-09-20T13:28:30.956985Z"
+   committed-date="2011-09-20T13:41:57.904260Z"
+   checksum="c820c878aedb7a7f9ebd7135a58e7c65"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-20T13:39:41.484337Z"/>
+<entry
+   committed-rev="249"
+   name="fancy_shadow_e.png"
+   text-time="2011-09-20T13:28:30.951985Z"
+   committed-date="2011-09-20T13:41:57.904260Z"
+   checksum="fd4f491080d29fade5080877f1ba4c8b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-20T13:39:41.570342Z"/>
+<entry
+   committed-rev="249"
+   name="fancybox.png"
+   text-time="2011-09-20T13:28:30.918983Z"
+   committed-date="2011-09-20T13:41:57.904260Z"
+   checksum="11e57e492ee0311540967cc7a1e6e3e2"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-20T13:39:41.695349Z"/>
+<entry
+   committed-rev="249"
+   name="fancy_title_left.png"
+   text-time="2011-09-20T13:28:30.965986Z"
+   committed-date="2011-09-20T13:41:57.904260Z"
+   checksum="1582ac2d3bef6a6445bf02ceca2741cd"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-20T13:39:41.641346Z"/>
+<entry
+   committed-rev="249"
+   name="fancy_nav_left.png"
+   text-time="2011-09-20T13:28:30.930984Z"
+   committed-date="2011-09-20T13:41:57.904260Z"
+   checksum="3f3e406102152cd8236383568a40ba35"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-20T13:39:41.537340Z"/>
+<entry
+   committed-rev="249"
+   name="fancy_shadow_sw.png"
+   text-time="2011-09-20T13:28:30.961985Z"
+   committed-date="2011-09-20T13:41:57.904260Z"
+   checksum="f81cc0fee5581d76ad3cebe47e7e791b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-20T13:39:41.493338Z"/>
+<entry
+   committed-rev="249"
+   name="fancybox-x.png"
+   text-time="2011-09-20T13:28:30.913983Z"
+   committed-date="2011-09-20T13:41:57.904260Z"
+   checksum="168696d8a694214090ef90e029cdf393"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-20T13:39:41.600344Z"/>
+<entry
+   committed-rev="249"
+   name="fancybox-y.png"
+   text-time="2011-09-20T13:28:30.916983Z"
+   committed-date="2011-09-20T13:41:57.904260Z"
+   checksum="36a58859beb9a6b19322a37466b9f78e"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-20T13:39:41.611344Z"/>
+<entry
+   committed-rev="249"
+   name="jquery.fancybox-1.3.4.js"
+   text-time="2011-09-20T13:28:30.977986Z"
+   committed-date="2011-09-20T13:41:57.904260Z"
+   checksum="e7fc2f8a70f0a9f966207c3f71130721"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="249"
+   name="fancy_shadow_n.png"
+   text-time="2011-09-20T13:28:30.952985Z"
+   committed-date="2011-09-20T13:41:57.904260Z"
+   checksum="18cde16379b2ceadef714d9b346d09ec"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-20T13:39:41.685349Z"/>
+<entry
+   committed-rev="249"
+   name="fancy_close.png"
+   text-time="2011-09-20T13:28:30.924983Z"
+   committed-date="2011-09-20T13:41:57.904260Z"
+   checksum="6e2879a324a76e9972ebc98201aae1d8"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-20T13:39:41.514339Z"/>
+<entry
+   committed-rev="249"
+   name="fancy_shadow_ne.png"
+   text-time="2011-09-20T13:28:30.954985Z"
+   committed-date="2011-09-20T13:41:57.904260Z"
+   checksum="63adf788acf193d4e4f3642d7d793125"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-20T13:39:41.550341Z"/>
+<entry
+   committed-rev="249"
+   name="fancy_shadow_s.png"
+   text-time="2011-09-20T13:28:30.958985Z"
+   committed-date="2011-09-20T13:41:57.904260Z"
+   checksum="9b9e5c888028aaef40fe5b6a363f1e29"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-20T13:39:41.668348Z"/>
+<entry
+   committed-rev="249"
+   name="jquery.easing-1.3.pack.js"
+   text-time="2011-09-20T13:28:30.972986Z"
+   committed-date="2011-09-20T13:41:57.904260Z"
+   checksum="def257dbb0ab805c4996fd8abb1a6b49"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="249"
+   name="fancy_shadow_w.png"
+   text-time="2011-09-20T13:28:30.963985Z"
+   committed-date="2011-09-20T13:41:57.904260Z"
+   checksum="59b0e63eb059e58d932cfd53da4d87e6"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-20T13:39:41.561341Z"/>
+</wc-entries>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="282"
+   name=""
+   committed-date="2011-09-20T15:56:48.127108Z"
+   url="https://svn.sinaapp.com/renrenbook/1/tpl"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   uuid="d38ad656-9e8f-4001-bb2a-cba8ef8b5a44"
+   repos="https://svn.sinaapp.com/renrenbook"
+   revision="324"/>
+<entry
+   name="default"
+   kind="dir"/>
+</wc-entries>

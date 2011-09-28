@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="233"
+   name=""
+   committed-date="2011-09-20T02:49:44.024286Z"
+   url="https://svn.sinaapp.com/renrenbook/1/include/word"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   uuid="d38ad656-9e8f-4001-bb2a-cba8ef8b5a44"
+   repos="https://svn.sinaapp.com/renrenbook"
+   revision="324"/>
+<entry
+   name="PHPWord"
+   kind="dir"/>
+<entry
+   committed-rev="231"
+   name="PHPWord.php"
+   text-time="2011-09-20T02:43:13.973571Z"
+   committed-date="2011-09-20T02:43:23.452723Z"
+   checksum="8e9204925624dba9a6e2fa181c89c637"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+</wc-entries>

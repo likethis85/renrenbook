@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="33"
+   name=""
+   committed-date="2011-09-18T15:20:24.501871Z"
+   url="https://svn.sinaapp.com/renrenbook/1/include/dompdf/lib/fonts"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   uuid="d38ad656-9e8f-4001-bb2a-cba8ef8b5a44"
+   repos="https://svn.sinaapp.com/renrenbook"
+   revision="324"/>
+<entry
+   committed-rev="33"
+   name="Helvetica-Bold.afm"
+   text-time="2011-09-18T15:32:14.710097Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="e3fe0c36a8f5897803e143fa3ce8b050"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:32:10.945882Z"/>
+<entry
+   committed-rev="33"
+   name="Times-Italic.afm"
+   text-time="2011-09-18T15:32:14.723098Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="de1bc28c9c6de2024a31e01e58ed84cf"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:32:11.414908Z"/>
+<entry
+   committed-rev="33"
+   name="mustRead.html"
+   text-time="2011-09-18T15:32:14.771100Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="e5013b5c73921e3dea085e1615a22f66"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:32:11.820932Z"/>
+<entry
+   committed-rev="33"
+   name="Times-BoldItalic.afm"
+   text-time="2011-09-18T15:32:14.740099Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="d53c92f1d481dfeab08ca52d0e98ae95"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:32:11.806931Z"/>
+<entry
+   committed-rev="33"
+   name="Courier-Bold.afm"
+   text-time="2011-09-18T15:32:14.780101Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="6fc48972d0c4e1d877df9f774f2c607c"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:32:11.880935Z"/>
+<entry
+   committed-rev="33"
+   name="Times-Roman.afm"
+   text-time="2011-09-18T15:32:14.790101Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="7e26f98e7e2d477a5c84c4719b0b0327"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:32:12.350962Z"/>
+<entry
+   committed-rev="33"
+   name="Times-Bold.afm"
+   text-time="2011-09-18T15:32:14.804102Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="9596500caf1b36a9c55f641b219c45cc"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:32:12.742984Z"/>
+<entry
+   committed-rev="33"
+   name="Helvetica-Oblique.afm"
+   text-time="2011-09-18T15:32:14.818103Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="4d78336194ea1cb084db129325b6b710"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:32:13.283015Z"/>
+<entry
+   committed-rev="33"
+   name="Helvetica-BoldOblique.afm"
+   text-time="2011-09-18T15:32:14.832104Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="42a473f85d788afc871c2fd54432ccb3"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:32:13.756042Z"/>
+<entry
+   committed-rev="33"
+   name="Helvetica.afm"
+   text-time="2011-09-18T15:32:14.845105Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="160cca93dd018a6d212de1648f656e42"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:32:14.222069Z"/>
+<entry
+   committed-rev="33"
+   name="Symbol.afm"
+   text-time="2011-09-18T15:32:14.858105Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="b4a0380a9218d59a0fade19bd62267a0"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:32:14.303074Z"/>
+<entry
+   committed-rev="33"
+   name="Courier-Oblique.afm"
+   text-time="2011-09-18T15:32:14.868106Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="c51785e1b5692e50810d3af9f11ea719"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:32:14.379078Z"/>
+<entry
+   committed-rev="33"
+   name="Courier-BoldOblique.afm"
+   text-time="2011-09-18T15:32:14.878106Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="02721b7f14f2a3ad5629c0d608580975"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:32:14.529086Z"/>
+<entry
+   committed-rev="33"
+   name="Courier.afm"
+   text-time="2011-09-18T15:32:14.888107Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="4a20aa7b0aee057d4ccf646a8bcb4ef7"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:32:14.613091Z"/>
+<entry
+   committed-rev="33"
+   name="dompdf_font_family_cache.dist.php"
+   text-time="2011-09-18T15:32:14.898108Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="71bf55aa0dfec3fd76c070a0167c96ee"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:32:14.619092Z"/>
+<entry
+   committed-rev="33"
+   name="ZapfDingbats.afm"
+   text-time="2011-09-18T15:32:14.907108Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="2cd8c462e075c9dda87546ab356aaa32"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:32:14.688096Z"/>
+</wc-entries>

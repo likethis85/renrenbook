@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="229"
+   name=""
+   committed-date="2011-09-20T02:41:13.793590Z"
+   url="https://svn.sinaapp.com/renrenbook/1/include/word/PHPWord/Shared"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/renrenbook"
+   revision="324"/>
+<entry
+   committed-rev="229"
+   name="Drawing.php"
+   text-time="2011-09-20T02:38:40.757944Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="11944208fb356cb194243e3cf41d4bed"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="229"
+   name="XMLWriter.php"
+   text-time="2011-09-20T02:38:40.767945Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="3068d7792dca92d4dc88edd2891d8a6e"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="229"
+   name="File.php"
+   text-time="2011-09-20T02:38:40.759944Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="3c15065c833cf8fe06a8ba853915a484"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="229"
+   name="ZipStreamWrapper.php"
+   text-time="2011-09-20T02:38:40.770945Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="77636a945994d3a27f20b123712a8d79"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="229"
+   name="Font.php"
+   text-time="2011-09-20T02:38:40.762944Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="c0ea166d76a99af6bfeb3b77f4879e37"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="229"
+   name="String.php"
+   text-time="2011-09-20T02:38:40.764945Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="7b2eab915a9ac8f9890cc428c1a50a8b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+</wc-entries>

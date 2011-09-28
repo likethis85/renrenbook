@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="233"
+   name=""
+   committed-date="2011-09-20T02:49:44.024286Z"
+   url="https://svn.sinaapp.com/renrenbook/1/include/word/PHPWord"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   uuid="d38ad656-9e8f-4001-bb2a-cba8ef8b5a44"
+   repos="https://svn.sinaapp.com/renrenbook"
+   revision="324"/>
+<entry
+   name="Style"
+   kind="dir"/>
+<entry
+   committed-rev="229"
+   name="Template.php"
+   text-time="2011-09-20T02:38:40.800947Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="0fff6525c7fb1daed44c62f3db28740c"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="229"
+   name="DocumentProperties.php"
+   text-time="2011-09-20T02:38:40.687940Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="0279334d1c249513ab258c58816c79a8"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   name="Section"
+   kind="dir"/>
+<entry
+   committed-rev="229"
+   name="Media.php"
+   text-time="2011-09-20T02:38:40.692940Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="eb26b69a23ab1ebe72fe37c4c16d4d16"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="229"
+   name="Autoloader.php"
+   text-time="2011-09-20T02:38:40.682940Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="eb225cd899e01b52dd279240f4816a73"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="229"
+   name="IOFactory.php"
+   text-time="2011-09-20T02:38:40.689940Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="64744b9a16f2afac10a680e86a65d9cd"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   name="Shared"
+   kind="dir"/>
+<entry
+   name="_staticDocParts"
+   kind="dir"/>
+<entry
+   committed-rev="229"
+   name="Style.php"
+   text-time="2011-09-20T02:38:40.797946Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="5a8960928399e9c585deaa59cbb5ef3c"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="229"
+   name="Section.php"
+   text-time="2011-09-20T02:38:40.752944Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="c924e73719d3ae0b9a358f6321d2896f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="229"
+   name="TOC.php"
+   text-time="2011-09-20T02:38:40.803947Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="b68688c321b2bcf488811b88338e9d76"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   name="Writer"
+   kind="dir"/>
+</wc-entries>

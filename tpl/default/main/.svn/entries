@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="271"
+   name=""
+   committed-date="2011-09-20T14:36:03.285942Z"
+   url="https://svn.sinaapp.com/renrenbook/1/tpl/default/main"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   uuid="d38ad656-9e8f-4001-bb2a-cba8ef8b5a44"
+   repos="https://svn.sinaapp.com/renrenbook"
+   revision="324"/>
+<entry
+   committed-rev="271"
+   name="about.html"
+   text-time="2011-09-20T14:35:55.086296Z"
+   committed-date="2011-09-20T14:36:03.285942Z"
+   checksum="a567b0847f98c557f97ea39834b8ba11"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+</wc-entries>

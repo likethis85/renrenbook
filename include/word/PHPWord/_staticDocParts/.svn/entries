@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="229"
+   name=""
+   committed-date="2011-09-20T02:41:13.793590Z"
+   url="https://svn.sinaapp.com/renrenbook/1/include/word/PHPWord/_staticDocParts"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/renrenbook"
+   revision="324"/>
+<entry
+   committed-rev="229"
+   name="settings.xml"
+   text-time="2011-09-20T02:38:40.870951Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="b56e83277e503f2f2c9bbcb537b48dbe"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="229"
+   name="theme1.xml"
+   text-time="2011-09-20T02:38:40.873951Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="9d84374caf9c73ec77677afd23cb7b22"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="229"
+   name="_ppt.png"
+   text-time="2011-09-20T02:38:40.880951Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="7e42a00d061d6dc945fc697a6983e3fd"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-20T02:40:36.281552Z"/>
+<entry
+   committed-rev="229"
+   name="numbering.xml"
+   text-time="2011-09-20T02:38:40.861950Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="e996fb498655cdc34070745c477b6f99"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="229"
+   name="_doc.png"
+   text-time="2011-09-20T02:38:40.878951Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="55edfd86fbba7955bccb5b122d3c8164"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-20T02:40:36.610571Z"/>
+<entry
+   committed-rev="229"
+   name="_xls.png"
+   text-time="2011-09-20T02:38:40.884951Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="24d2dc7a8b8e514ee5b8f9e4f99f7ac4"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-20T02:40:36.235549Z"/>
+<entry
+   committed-rev="229"
+   name="webSettings.xml"
+   text-time="2011-09-20T02:38:40.876951Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="15065d2de3eddbb09d84337a09fd7985"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="229"
+   name="fontTable.xml"
+   text-time="2011-09-20T02:38:40.859950Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="01173971ec712d5a8180e910597a7c20"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+</wc-entries>

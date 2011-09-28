@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="229"
+   name=""
+   committed-date="2011-09-20T02:41:13.793590Z"
+   url="https://svn.sinaapp.com/renrenbook/1/include/word/PHPWord/Section/Footer"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/renrenbook"
+   revision="324"/>
+<entry
+   committed-rev="229"
+   name="PreserveText.php"
+   text-time="2011-09-20T02:38:40.698941Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="f44d2dd9dc25ef90e166c4c3eb7e91cb"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+</wc-entries>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="171"
+   name=""
+   committed-date="2011-09-19T08:00:55.495728Z"
+   url="https://svn.sinaapp.com/renrenbook/1/include/renren"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   uuid="d38ad656-9e8f-4001-bb2a-cba8ef8b5a44"
+   repos="https://svn.sinaapp.com/renrenbook"
+   revision="324"/>
+<entry
+   committed-rev="2"
+   name="RenRenClient.class.php"
+   text-time="2011-09-18T12:57:00.997383Z"
+   committed-date="2011-09-18T13:07:23.709234Z"
+   checksum="2b918193c5abb99138dd3d5982099503"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="171"
+   name="config.inc.php"
+   text-time="2011-09-19T08:00:46.865615Z"
+   committed-date="2011-09-19T08:00:55.495728Z"
+   checksum="ed9da8a09020f49af6b60140e827d577"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="13"
+   name="RenRenOauth.class.php"
+   text-time="2011-09-18T13:51:52.747660Z"
+   committed-date="2011-09-18T13:52:24.589277Z"
+   checksum="76f89dbe35459e62736c21afe3bfdbf4"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="requires.php"
+   text-time="2011-09-18T12:57:01.004383Z"
+   committed-date="2011-09-18T13:07:23.709234Z"
+   checksum="6bb8c9b4477b3192bb15d169831e1537"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="RESTClient.class.php"
+   text-time="2011-09-18T12:57:01.005383Z"
+   committed-date="2011-09-18T13:07:23.709234Z"
+   checksum="6afd973a72b0b5c9135d07ec6cf0a6d0"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+</wc-entries>

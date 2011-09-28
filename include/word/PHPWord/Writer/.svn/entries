@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="229"
+   name=""
+   committed-date="2011-09-20T02:41:13.793590Z"
+   url="https://svn.sinaapp.com/renrenbook/1/include/word/PHPWord/Writer"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/renrenbook"
+   revision="324"/>
+<entry
+   name="Word2007"
+   kind="dir"/>
+<entry
+   committed-rev="229"
+   name="Word2007.php"
+   text-time="2011-09-20T02:38:40.854950Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="b5d55474e7a516f02af3aa7c9532c9e6"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="229"
+   name="IWriter.php"
+   text-time="2011-09-20T02:38:40.806947Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="fd2b10d0f1b25273b9286851fc40a0d1"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+</wc-entries>

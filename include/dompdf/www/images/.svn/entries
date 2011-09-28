@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="33"
+   name=""
+   committed-date="2011-09-18T15:20:24.501871Z"
+   url="https://svn.sinaapp.com/renrenbook/1/include/dompdf/www/images"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   uuid="d38ad656-9e8f-4001-bb2a-cba8ef8b5a44"
+   repos="https://svn.sinaapp.com/renrenbook"
+   revision="324"/>
+<entry
+   committed-rev="33"
+   name="logo.xcf"
+   text-time="2011-09-18T15:31:48.030571Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="cd61a785ed034f917704ca96c1a0ed3f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:47.916564Z"/>
+<entry
+   committed-rev="33"
+   name="h_bar.gif"
+   text-time="2011-09-18T15:31:48.022570Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="fa6ba336b537c1d49dcacd264da68655"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:47.910564Z"/>
+<entry
+   committed-rev="33"
+   name="star_03.gif"
+   text-time="2011-09-18T15:31:48.015570Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="2ae72684359033e2311e35ac836c2be8"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:47.904564Z"/>
+<entry
+   committed-rev="33"
+   name="star_04.gif"
+   text-time="2011-09-18T15:31:48.047572Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="60208247d9bf6ec5149009500a2a1e70"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:47.924565Z"/>
+<entry
+   committed-rev="33"
+   name="xhtml10.png"
+   text-time="2011-09-18T15:31:48.039571Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="06a08242436409aa002c8ed8c87427bb"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:47.921565Z"/>
+<entry
+   committed-rev="33"
+   name="star_05.gif"
+   text-time="2011-09-18T15:31:48.055572Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="5675ca3805c0be24376333602726a216"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:47.928565Z"/>
+<entry
+   committed-rev="33"
+   name="logo.png"
+   text-time="2011-09-18T15:31:48.062573Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="e269ffabec0055f9bb0481752067f71d"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:47.933565Z"/>
+<entry
+   committed-rev="33"
+   name="title.gif"
+   text-time="2011-09-18T15:31:48.072573Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="e84bf949fc712ea846f731c2ae679082"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:47.937566Z"/>
+<entry
+   committed-rev="33"
+   name="css2.png"
+   text-time="2011-09-18T15:31:48.088574Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="6f94f74da5975aa2efb496cd8d7d3d92"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:47.946566Z"/>
+<entry
+   committed-rev="33"
+   name="v_bar.gif"
+   text-time="2011-09-18T15:31:48.080574Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="cc3fa84d5269ba0df8fc420772179889"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:47.942566Z"/>
+<entry
+   committed-rev="33"
+   name="favicon.ico"
+   text-time="2011-09-18T15:31:48.105575Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="4e9b398ab96547a064867f2d79218ef3"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:47.955567Z"/>
+<entry
+   committed-rev="33"
+   name="arrow_01.gif"
+   text-time="2011-09-18T15:31:48.096575Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="5c61eea53b4294aa5c8dbea9a8379921"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:47.950566Z"/>
+<entry
+   committed-rev="33"
+   name="arrow_02.gif"
+   text-time="2011-09-18T15:31:48.275585Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="110ce17762f3f263bc831dd99c33ab97"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:47.959567Z"/>
+<entry
+   committed-rev="33"
+   name="php5-power-micro.png"
+   text-time="2011-09-18T15:31:48.290586Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="cd26dbd4037566fbe2fff19d2176a54c"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:47.967567Z"/>
+<entry
+   committed-rev="33"
+   name="arrow_03.gif"
+   text-time="2011-09-18T15:31:48.283585Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="98c1acc3fc9c6324b0c530186ba7e099"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:47.963567Z"/>
+<entry
+   committed-rev="33"
+   name="arrow_04.gif"
+   text-time="2011-09-18T15:31:48.299586Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="7284099f2a4641c7672260cdd0246ef4"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:47.971567Z"/>
+<entry
+   committed-rev="33"
+   name="arrow_05.gif"
+   text-time="2011-09-18T15:31:48.308587Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="a817d2d3ff19fa3517d0bbf03fcb4eae"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:47.975568Z"/>
+<entry
+   committed-rev="33"
+   name="arrow_06.gif"
+   text-time="2011-09-18T15:31:48.316587Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="0a07faa589eac49e9b64014f67799d06"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:47.979568Z"/>
+<entry
+   committed-rev="33"
+   name="dompdf_simple.png"
+   text-time="2011-09-18T15:31:48.323588Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="e0e6968494ad641ea693c9c1119f8863"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:47.984568Z"/>
+<entry
+   committed-rev="33"
+   name="left_arrow.gif"
+   text-time="2011-09-18T15:31:48.334588Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="58249197c3eaf9cbd478a2bbfa93e20e"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:47.988568Z"/>
+<entry
+   committed-rev="33"
+   name="favicon.png"
+   text-time="2011-09-18T15:31:48.341589Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="025ba8ac023e35373d59e02c78e5bdba"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:47.992569Z"/>
+<entry
+   committed-rev="33"
+   name="small_logo.png"
+   text-time="2011-09-18T15:31:48.349589Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="73516981c875d08ebb13cf22606e1a1a"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:47.997569Z"/>
+<entry
+   committed-rev="33"
+   name="star_01.gif"
+   text-time="2011-09-18T15:31:48.357590Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="ec1938c6312ce975bb4bbafaafbf1011"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:48.003569Z"/>
+<entry
+   committed-rev="33"
+   name="star_02.gif"
+   text-time="2011-09-18T15:31:48.364590Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="d7fdcde3dc614d8c94eb2bd9424a5249"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:48.007570Z"/>
+</wc-entries>

@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>人人书</title>
+<script type="text/javascript" src="http://lib.sinaapp.com/js/jquery/1.5.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://lib.sinaapp.com/js/jquery-ui/1.8.9/jquery-ui.min.js"></script>
+<script src="http://ajax.microsoft.com/ajax/jquery.templates/beta1/jquery.tmpl.min.js"></script>
+<link href="http://img3.douban.com/css/packed_douban6945416866.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+.item-reply {
+	border-bottom: 1px dashed #ddd;
+	margin-top: 4px;
+}
+
+.recreplylst {
+	padding-bottom: 6px;
+}
+
+.recreplylst .simplelst {
+	border-bottom: none;
+}
+
+.last {
+	border: none;
+}
+
+/* guess rules */
+.guess-list li,.guess-list .content {
+	zoom: 1;
+	overflow: hidden;
+	color: #666;
+}
+
+.guess-list li {
+	border-bottom: 1px dashed #ddd;
+	padding-bottom: 6px;
+	margin-top: 8px;
+}
+
+.guess-list .pic,.guess-list .info {
+	display: table-cell;
+	vertical-align: top;
+	*float: left;
+}
+
+.guess-list .pic {
+	padding-right: 12px;
+	*padding-right: 0;
+	*margin-right: 12px;
+}
+
+.guess-list .pic img {
+	width: 56px;
+	vertical-align: text-bottom;
+}
+
+.guess-list .pic a:hover {
+	background: transparent;
+}
+
+.guess-list .info {
+	*vertical-align: baseline;
+	word-wrap: break-word;
+}
+
+.guess-list .favs {
+	color: #999;
+}
+
+.guess-list .title {
+	margin-bottom: 3px;
+}
+
+.guess-list .content {
+	margin-bottom: 4px;
+}
+
+.guess-list .star {
+	color: #ff5138;
+	overflow: hidden;
+	font-size: 11px;
+	font-family: tahoma;
+	*zoom: 1;
+}
+
+.guess-list .pic .album_t {
+	width: 47px;
+	height: 47px;
+	padding: 2px 8px 8px 2px;
+	background: url(/pics/album_s.png) no-repeat;
+}
+</style>
+</head>
+<body>
+<script type="text/javascript">
+$(document).ready(function(){
+	
+	function getCookie(c_name)
+	{
+		var i,x,y,ARRcookies=document.cookie.split(";");
+		for (i=0;i<ARRcookies.length;i++)
+		{
+			  x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+	 		 y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+	 		 x=x.replace(/^\s+|\s+$/g,"");
+	 		 if (x==c_name)
+	 		   {
+	   				 return unescape(y);
+	   			 }
+	  	}
+	}
+	function getName(){
+		return getCookie("name");
+	}
+	function getUrl(){
+		return getCookie("tinyurl");
+	}
+
+	$.ajax(
+		{
+			url:"http://renrenbook.sinaapp.com/index.php?c=renren&a=get_status_page_count",
+			type:"get",
+			data:"page=1&count=200",
+			dataType :"json" ,
+		    success:function(result)
+		    {
+		       	    var t=$.template( null, "<li class='mbtl'><a href='http://www.douban.com/people/smallbad/'><img src='${getUrl()}' alt='${getName()}' title='${getName()}' /></a></li> <li class='mbtr'><a href='http://www.douban.com/people/smallbad/'>${getName()</a><span class='pl'>${time}说：</span><div class='quote'><span class='inq'>${message}</span> <span><a href='http://www.douban.com/people/smallbad/miniblog/461504332/' class='j a_saying_reply'  name='recreply-6818317-461504332-r-y-n' >25回应</a> </span></div></li><div class='clear'></div>" );
+		    	    $.tmpl(t,result ).appendTo( ".mdt" );
+		    		
+		    }
+			
+		}		
+		);
+});
+</script>
+
+	<div id="miniblog">
+		<ul class="mdt"></ul>
+	</div>
+</body>
+</html>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="33"
+   name=""
+   committed-date="2011-09-18T15:20:24.501871Z"
+   url="https://svn.sinaapp.com/renrenbook/1/include/dompdf"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   uuid="d38ad656-9e8f-4001-bb2a-cba8ef8b5a44"
+   repos="https://svn.sinaapp.com/renrenbook"
+   revision="324"/>
+<entry
+   committed-rev="33"
+   name="LICENSE.LGPL"
+   text-time="2011-09-18T15:32:15.046116Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="3b574c68f70fcf4b8dcd71915463de9b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:25.392276Z"/>
+<entry
+   committed-rev="33"
+   name="dompdf.php"
+   text-time="2011-09-18T15:32:15.060117Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="4eb4bcb26aee6ae81c87d31cedb3386b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:25.399276Z"/>
+<entry
+   name="tests"
+   kind="dir"/>
+<entry
+   name="include"
+   kind="dir"/>
+<entry
+   name="www"
+   kind="dir"/>
+<entry
+   committed-rev="33"
+   name="dompdf_config.custom.inc.php"
+   text-time="2011-09-18T15:32:15.072118Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="5d3e74ed750751a8ef350db7472e2174"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:49.914679Z"/>
+<entry
+   name="lib"
+   kind="dir"/>
+<entry
+   committed-rev="33"
+   name="load_font.php"
+   text-time="2011-09-18T15:32:15.083118Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="5bc8955f7bb4fb0597bbeecb7a777334"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:32:15.025115Z"/>
+<entry
+   committed-rev="33"
+   name="dompdf_config.inc.php"
+   text-time="2011-09-18T15:32:15.094119Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="42aefc77901c5f3c984a88398a28e734"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:32:15.032115Z"/>
+<entry
+   committed-rev="33"
+   name="index.php"
+   text-time="2011-09-18T15:32:15.107120Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="2a997265330410f8b508fe71d402a144"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:32:15.037116Z"/>
+</wc-entries>

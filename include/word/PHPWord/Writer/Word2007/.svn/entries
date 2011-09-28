@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="229"
+   name=""
+   committed-date="2011-09-20T02:41:13.793590Z"
+   url="https://svn.sinaapp.com/renrenbook/1/include/word/PHPWord/Writer/Word2007"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/renrenbook"
+   revision="324"/>
+<entry
+   committed-rev="229"
+   name="DocProps.php"
+   text-time="2011-09-20T02:38:40.818948Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="54842c8e0fc8232de29909c50ae020cd"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="229"
+   name="Base.php"
+   text-time="2011-09-20T02:38:40.810947Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="36c718caf7a90bede5652770828d01c7"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="229"
+   name="Footer.php"
+   text-time="2011-09-20T02:38:40.830948Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="658c59d8a79e5a9e490bad9c40f55176"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="229"
+   name="Document.php"
+   text-time="2011-09-20T02:38:40.822948Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="b8674f3e0c70b071d9d806cc06b764fe"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="229"
+   name="ContentTypes.php"
+   text-time="2011-09-20T02:38:40.815947Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="f0efc07400581370623392373437c488"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="229"
+   name="WriterPart.php"
+   text-time="2011-09-20T02:38:40.852950Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="98525bfd8ae3461ab3626cc38d61fe62"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="229"
+   name="Styles.php"
+   text-time="2011-09-20T02:38:40.848949Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="f244b10624d81972e7156b876a8389d3"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="229"
+   name="DocumentRels.php"
+   text-time="2011-09-20T02:38:40.826948Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="91cecb595a81e4318366c48d7b9b1626"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="229"
+   name="Rels.php"
+   text-time="2011-09-20T02:38:40.845949Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="7e4ca2aa5163885c2d85d7b829280828"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="229"
+   name="Header.php"
+   text-time="2011-09-20T02:38:40.832948Z"
+   committed-date="2011-09-20T02:41:13.793590Z"
+   checksum="d5f3f322a470e8d3d82a8431c17724c0"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+</wc-entries>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="33"
+   name=""
+   committed-date="2011-09-18T15:20:24.501871Z"
+   url="https://svn.sinaapp.com/renrenbook/1/include/dompdf/lib/ttf2ufm/src/app/TeX"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   uuid="d38ad656-9e8f-4001-bb2a-cba8ef8b5a44"
+   repos="https://svn.sinaapp.com/renrenbook"
+   revision="324"/>
+<entry
+   committed-rev="33"
+   name="README.html"
+   text-time="2011-09-18T15:31:50.892735Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="ce37ad26e4660fb21d6cf181716886e4"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:50.814730Z"/>
+<entry
+   committed-rev="33"
+   name="cjk-latex-config"
+   text-time="2011-09-18T15:31:50.902735Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="133a429b567799b3be170877586b63c9"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:50.820730Z"/>
+<entry
+   committed-rev="33"
+   name="cjk-latex-t1mapgen"
+   text-time="2011-09-18T15:31:50.915736Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="5a66e5b273e2f2f78ba48c84871e5f0d"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:50.825731Z"/>
+<entry
+   committed-rev="33"
+   name="sfd2map"
+   text-time="2011-09-18T15:31:50.924736Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="4eb79e26f34c0f0073e3bd048656f8e8"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:50.879734Z"/>
+<entry
+   committed-rev="33"
+   name="README"
+   text-time="2011-09-18T15:31:50.934737Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="65aab7f2e59a3c47689ba0bed2d7efa6"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:50.884734Z"/>
+</wc-entries>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2011-09-18T13:08:12.934893Z"
+   url="https://svn.sinaapp.com/renrenbook/1/_ignore"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   uuid="d38ad656-9e8f-4001-bb2a-cba8ef8b5a44"
+   repos="https://svn.sinaapp.com/renrenbook"
+   revision="324"/>
+<entry
+   committed-rev="3"
+   name="1_authorize.php"
+   text-time="2011-09-18T13:08:02.918243Z"
+   committed-date="2011-09-18T13:08:12.934893Z"
+   checksum="2a5e89a37d4e745e19aa8d0c53b30a57"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="5_api.php"
+   text-time="2011-09-18T13:01:50.784958Z"
+   committed-date="2011-09-18T13:07:23.709234Z"
+   checksum="c4fd5cfdb3cf817472acb7fb2ca6a8a3"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="2_callback.php"
+   text-time="2011-09-18T13:01:44.566602Z"
+   committed-date="2011-09-18T13:07:23.709234Z"
+   checksum="f116abf1076f2a73697980296f1fd4fa"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="4_sessionkey.php"
+   text-time="2011-09-18T13:01:44.572603Z"
+   committed-date="2011-09-18T13:07:23.709234Z"
+   checksum="95d0660885a744b7f69c199fe4527d62"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="3_accesstoken.php"
+   text-time="2011-09-18T13:01:44.568602Z"
+   committed-date="2011-09-18T13:07:23.709234Z"
+   checksum="b591cfbdd9065f074719d12bd26ea4ee"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+</wc-entries>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="33"
+   name=""
+   committed-date="2011-09-18T15:20:24.501871Z"
+   url="https://svn.sinaapp.com/renrenbook/1/include/dompdf/lib/ttf2ufm/src/app/RPM"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   uuid="d38ad656-9e8f-4001-bb2a-cba8ef8b5a44"
+   repos="https://svn.sinaapp.com/renrenbook"
+   revision="324"/>
+<entry
+   committed-rev="33"
+   name="ttf2pt1.spec.src"
+   text-time="2011-09-18T15:31:51.340760Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="64e728cbbb0ba3d443c43974ce9280e2"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:51.317759Z"/>
+<entry
+   committed-rev="33"
+   name="Makefile"
+   text-time="2011-09-18T15:31:51.350761Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="52727b216e087a03b5231b1509c81530"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:51.324759Z"/>
+<entry
+   committed-rev="33"
+   name="ttf2pt1.spec"
+   text-time="2011-09-18T15:31:51.366762Z"
+   committed-date="2011-09-18T15:20:24.501871Z"
+   checksum="4a4b320a32f11e0b1ceead1a34d46108"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-18T15:31:51.332760Z"/>
+</wc-entries>

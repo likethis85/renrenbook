@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="199"
+   name=""
+   committed-date="2011-09-19T09:28:44.323208Z"
+   url="https://svn.sinaapp.com/renrenbook/1/models"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   uuid="d38ad656-9e8f-4001-bb2a-cba8ef8b5a44"
+   repos="https://svn.sinaapp.com/renrenbook"
+   revision="324"/>
+<entry
+   committed-rev="199"
+   name="lib_Usage.php"
+   text-time="2011-09-19T09:23:26.620297Z"
+   committed-date="2011-09-19T09:28:44.323208Z"
+   checksum="949bfa90a4b14524e92f7e454c4f25aa"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="175"
+   name="lib_Invite.php"
+   text-time="2011-09-19T08:25:21.108937Z"
+   committed-date="2011-09-19T08:44:34.804746Z"
+   checksum="62b98bb467730fbe614588c9703e1785"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+</wc-entries>
